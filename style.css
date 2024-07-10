@@ -15,4 +15,5 @@ img {
     border: 10px solid white;
     border-radius: 50%;
     animation: superSexyCoinFlip 5s ease-in;
+    color: black;
 }
